@@ -5,7 +5,7 @@
 
 - 🤝 I’m open to cooperation and startups
 
-- ✉️ My resume is here: [CV](https://drive.google.com/file/d/1Hh22yJoKWxyky3ueWmnTLBP0IbY7QuR3/view?usp=sharing)
+- ✉️ My resume is here: [CV](https://drive.google.com/file/d/1hg2Ucg5gy63EGVmmf83CL-LutwHqrdOn/view?usp=sharing)
 
 - 👨‍💻 All of my projects are available at [https://github.com/NikitaHardanger](https://github.com/NikitaHardanger)
 
