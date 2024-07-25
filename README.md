@@ -1,4 +1,4 @@
-<h1 align="Left">Hi 👋, My name is Nikita Bogomiagkov</h1>
+<h1 align="Left">Hi 👋, My name is Nikita Hardanger</h1>
 <h1 align="Left">I'm C++ Developer</h3>
 
 - 🌱 I’m currently learning **OpenGL/OpenCV/Boost/QT**
