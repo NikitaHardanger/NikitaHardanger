@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NikitaHardanger](https://github.com/NikitaHardanger)
 
-- 📫 You can contact me at **NikitaHardanger@gmail.com/ @NikitaSheldon(Telegram)**
+- 📫 You can contact me at **NikitaHardanger@gmail.com/ @NickHardanger(Telegram)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
