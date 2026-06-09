@@ -1,11 +1,12 @@
-<h1 align="Left">Hi 👋, My name is Nikita Hardanger</h1>
-<h1 align="Left">I'm C++ Developer/Java Developer/Software Developer</h3>
+# Nikita Bogomiagkov — Software Engineer
 
-- 🌱 I’m currently learning **OpenGL/OpenCV/Boost/QT**
+4+ years building internal tools, backend integrations, 
+and data-heavy interfaces.
 
-- 🤝 I’m open to cooperation and startups
+**Current stack:** Java · JavaScript/TypeScript · React · 
+SQL Server · REST APIs
 
-- ✉️ My resume is here: [CV](https://drive.google.com/file/d/1pwBeYL0UPbjYsMh5L1T7JQOVfFFsTwa-/view?usp=drive_link)
+**Background:** C++/Qt · OpenCV · TCP/IP · cross-platform dev
 
-- 📫 You can contact me at **NikitaHardanger@gmail.com/ @NickHardanger(Telegram)**
-
+📫 nikitahardanger@gmail.com | tg: @NickHardanger
+🔗 linkedin.com/in/nikitabg
