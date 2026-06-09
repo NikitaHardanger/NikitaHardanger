@@ -1,4 +1,4 @@
-# Nikita Bogomiagkov — Software Engineer
+# Nikita Bogomiagkov - Software Engineer
 
 4+ years building internal tools, backend integrations, 
 and data-heavy interfaces.
